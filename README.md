@@ -22,14 +22,6 @@ Geração de Arte Digital: Após o treinamento, o modelo emprega técnicas de mu
 Seleção e Tokenização na zkSync: As obras geradas são selecionadas por uma equipe de curadores. As escolhidas são tokenizadas como NFTs na rede zkSync, assegurando sua unicidade.
 Distribuição: Os NFTs são disponibilizados em mercados compatíveis com a zkSync, onde podem ser adquiridos.
 
-Instalação
-
-Para começar a utilizar este projeto, siga estes passos:
-
-git clone https://github.com/seuprojeto/nft-mutacao-ia-zksync.git
-cd nft-mutacao-ia-zksync
-pip install -r requirements.txt
-
 Uso
 
 Para gerar suas próprias obras de NFT de mutação, execute:
